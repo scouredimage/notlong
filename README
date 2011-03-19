@@ -1,0 +1,7 @@
+Simple URL shortener in Django
+API compatible with v2.0.1 of bit.ly
+
+Features:
+1. Follows redirects and shortens target URL
+2. Checks for known spamming/phishing domains through SURBL
+
